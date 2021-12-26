@@ -5,7 +5,10 @@ def main(a,b):
         a: int
         b: int
     Returns:
-        bool
+        #bool
     """
     # Write your code here
-    return 
+    
+    return a==b
+x=main(10,10)
+print(x)
